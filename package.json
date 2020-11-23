@@ -1,6 +1,6 @@
 {
   "name": "dpdf-dist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "pdfjs-dist修改了一点源码，获取rotate",
   "main": "index.js",
   "scripts": {
